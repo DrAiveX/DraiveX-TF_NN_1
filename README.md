@@ -8,5 +8,5 @@ use the script `run.sh` to run the code.
 ./run.sh
 ```
 ### Contents:
-`MNIST_TF_1.ipynb` for 1 Layer Feed Forward Neural Net
-`DrAiveX_MNIST_TF.ipynb` for 3 Layer Feed Forward Neural Net
+* `MNIST_TF_1.ipynb` for 1 Layer Feed Forward Neural Net
+* `DrAiveX_MNIST_TF.ipynb` for 3 Layer Feed Forward Neural Net
